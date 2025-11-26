@@ -35,6 +35,8 @@ cd tic-tac-toe
 # run depending on your language, e.g.:
 python main.py
 ```
+view Website 
+https://shivamaurya78.github.io/Tic-Tac-Toe-Game/
 
 ## License 📜
 
